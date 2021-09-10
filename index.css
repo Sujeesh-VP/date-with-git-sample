@@ -62,3 +62,26 @@ img {
     font-weight: bold;
     border-radius: 25px;
 }
+#second-section {
+    background-color: #F4F7FA;
+    display: flex;
+    justify-content: center;
+    height: 140px;
+    align-items: center;
+}
+input {
+    width: 40%;
+    height: 20px;
+    border-radius: 10px;
+    margin: 0px 10px;
+    padding: 10px;
+}
+#book-demo {
+    background-color: #8ee5d1;
+    border-radius: 10px;
+    height: 50px;
+    width: 10%;
+    margin: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
