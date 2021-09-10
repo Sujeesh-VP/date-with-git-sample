@@ -126,3 +126,35 @@ input {
     line-height: 25px;
 
 }
+footer {
+    background-color: #F4F7FA;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px;
+    padding: 30px 90px;
+}
+#about::first-line {
+    font-weight: bold;
+    font-size: medium;
+    
+}
+#contact::first-line {
+    font-weight: bold;
+    font-size: medium;
+}
+#contact {
+    line-height: 1px;
+    text-align: right;
+    
+    
+}
+#about {
+    width: 39%;
+    line-height: 1px;
+    
+    
+}
+span {
+    font-weight: bold;
+    line-height: 1px;
+}
