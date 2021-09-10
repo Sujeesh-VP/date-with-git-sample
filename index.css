@@ -1,0 +1,36 @@
+* {
+    font-family: Helvetica;
+    font-size: medium;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 40px;
+    padding: 10px;
+}
+#nav-left {
+    display: flex;
+    
+}
+#nav-right {
+    display: flex;
+    
+    
+}
+#sorty, #features, #pricing, #resources, #login, #signup {
+    margin: 10px;
+    padding: 10px;
+}
+#signup {
+    background-color: #8EE5D1;
+    width: 120px;
+    line-height: 20px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+#sorty {
+    font-weight: bold;
+    font-size: x-large;
+    line-height: 10px;
+}
